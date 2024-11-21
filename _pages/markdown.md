@@ -7,9 +7,9 @@ redirect_from:
   - /markdown.html
 ---
 
-### Research Projects
+## Research Projects
 
-## Domain Generalization in Multimodal Machine Learning
+### Domain Generalization in Multimodal Machine Learning
 
 *Research project with [Prof. Preethi Jyothi](https://www.cse.iitb.ac.in/~pjyothi/), In Collaboration with Google DeepMind*
 
@@ -29,6 +29,6 @@ In order to solve such problems, we developed an iterative algorithm to find the
 
 This is an ongoing project under the guidance of *[Prof. Ganesh Ramakrishnan](https://www.cse.iitb.ac.in/~ganesh/)* and *[Prof. Preethi Jyothi](https://www.cse.iitb.ac.in/~pjyothi/)* in which we're currently analyzing models like VALL-E that view TTS as conditional language modelling for Indian languages. Our aim is to improve tokenizers and add dialect-specific blocks to improve voice transfer capabilities of the model for various Indian languages.
 
-### Interships
+## Interships
 
-## AI Intern @ AWL,Inc.
+### AI Intern @ AWL,Inc.
