@@ -7,9 +7,11 @@ redirect_from:
   - /markdown.html
 ---
 
+### Research Projects
+
 ## Domain Generalization in Multimodal Machine Learning
 
-*Research project with [Prof.Preethi Jyothi](https://www.cse.iitb.ac.in/~pjyothi/), In Collaboration with Google DeepMind*
+*Research project with [Prof. Preethi Jyothi](https://www.cse.iitb.ac.in/~pjyothi/), In Collaboration with Google DeepMind*
 
 Several state-of-the-art VLMs (e.g. CLIP, BLIP-2) have achieved near-perfect performance on widely-used image-text retrieval benchmarks such as MSCOCO-Test-5K and Flickr30K-Test-1K. As a measure of out-of-distribution (OOD) generalization, prior works rely on zero-shot performance evaluated on one dataset (Flickr) using a VLM finetuned on another one (MSCOCO). We argue that such comparisons are insufficient to assess the OOD generalization capability of models due to high visual and linguistic similarity between the evaluation and finetuning datasets.
 
@@ -26,3 +28,7 @@ In order to solve such problems, we developed an iterative algorithm to find the
 ## Low Resource Voice Transfer for Speech Generation
 
 This is an ongoing project under the guidance of *[Prof. Ganesh Ramakrishnan](https://www.cse.iitb.ac.in/~ganesh/)* and *[Prof. Preethi Jyothi](https://www.cse.iitb.ac.in/~pjyothi/)* in which we're currently analyzing models like VALL-E that view TTS as conditional language modelling for Indian languages. Our aim is to improve tokenizers and add dialect-specific blocks to improve voice transfer capabilities of the model for various Indian languages.
+
+### Interships
+
+## AI Intern @ AWL,Inc.
