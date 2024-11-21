@@ -25,4 +25,4 @@ In order to solve such problems, we developed an iterative algorithm to find the
 
 ## Low Resource Voice Transfer for Speech Generation
 
-This is an ongoing project in which we're currently analyzing models like VALL-E that view TTS as conditional language modelling for Indian languages. Our aim is to improve tokenizers and add dialect-specific blocks to improve voice transfer capabilities of the model for various Indian languages.
+This is an ongoing project under the guidance of *[Prof. Ganesh Ramakrishnan](https://www.cse.iitb.ac.in/~ganesh/)* and *[Prof.Preethi Jyothi](https://www.cse.iitb.ac.in/~pjyothi/)* in which we're currently analyzing models like VALL-E that view TTS as conditional language modelling for Indian languages. Our aim is to improve tokenizers and add dialect-specific blocks to improve voice transfer capabilities of the model for various Indian languages.
