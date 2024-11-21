@@ -21,7 +21,7 @@ Our work has been accepted at *NeurIPS 2024* in the Datasets and Benchmarks Trac
 
 In my B.Tech Thesis, I worked with *[Prof. Sharayu Moharir](https://sites.google.com/view/sharayu-homepage/home)* on deriving bounds for a multi-armed bandit problem. If we consider a scenario, where we want to find the best service centre where each of them provides multiple services, we would be interested in the one that has the highest average rating along with a constraint on the minimum rating for a service. 
 
-In order to solve such problems, we developed an iterative algorithm to find the best arm among N arms, where each arm has M attributes, constrained to have mean above \\(\mu_{TH}\\). Additionally, I also derived a lower \\(\mathcal{O}\left(H_{\text{id}}\right)\\) and a upper bound \\(\mathcal{O}\left(H_{\text{id}}\ln \frac{H_{\text{id}}}{\delta}\right)\\) on the expected sample complexity in terms of the hardness index \\(H_\text{id}\\)of the problem. Thus, we also demonstrated how hardness index is an effective and generalized tool to find bounds of a problem.
+In order to solve such problems, we developed an iterative algorithm to find the best arm among N arms, where each arm has M attributes, constrained to have mean above \\(\mu_{TH}\\). Additionally, I also derived a lower \\(\mathcal{O}\left(H_{\text{id}}\right)\\) and a upper bound \\(\mathcal{O}\left(H_{\text{id}}\ln \frac{H_{\text{id}}}{\delta}\right)\\) on the expected sample complexity in terms of the hardness index \\(\left(H_\text{id}\right)\\)of the problem. Thus, we also demonstrated how hardness index is an effective and generalized tool to find bounds of a problem.
 
 ## Low Resource Voice Transfer for Speech Generation
 
