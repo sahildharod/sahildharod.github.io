@@ -19,16 +19,18 @@ To address this gap, we introduce WikiDO (drawn from Wikipedia Diversity Observa
 
 Our work has been accepted at *NeurIPS 2024* in the Datasets and Benchmarks Track.
 
-## Constrained Best Arm Identification in Grouped Bandits
+### Constrained Best Arm Identification in Grouped Bandits
 
 In my B.Tech Thesis, I worked with *[Prof. Sharayu Moharir](https://sites.google.com/view/sharayu-homepage/home)* on deriving bounds for a multi-armed bandit problem. If we consider a scenario, where we want to find the best service centre where each of them provides multiple services, we would be interested in the one that has the highest average rating along with a constraint on the minimum rating for a service. 
 
 In order to solve such problems, we developed an iterative algorithm to find the best arm among N arms, where each arm has M attributes, constrained to have mean above \\(\mu_{TH}\\). Additionally, I also derived a lower \\(\mathcal{O}\left(H_{\text{id}}\right)\\) and a upper bound \\(\mathcal{O}\left(H_{\text{id}}\ln \frac{H_{\text{id}}}{\delta}\right)\\) on the expected sample complexity in terms of the hardness index \\(\left(H_\text{id}\right)\\) of the problem. Thus, we also demonstrated how hardness index is an effective and generalized tool to find bounds of a problem.
 
-## Low Resource Voice Transfer for Speech Generation
+### Low Resource Voice Transfer for Speech Generation
 
 This is an ongoing project under the guidance of *[Prof. Ganesh Ramakrishnan](https://www.cse.iitb.ac.in/~ganesh/)* and *[Prof. Preethi Jyothi](https://www.cse.iitb.ac.in/~pjyothi/)* in which we're currently analyzing models like VALL-E that view TTS as conditional language modelling for Indian languages. Our aim is to improve tokenizers and add dialect-specific blocks to improve voice transfer capabilities of the model for various Indian languages.
 
 ## Interships
 
-### AI Intern @ AWL,Inc.
+### AI Intern @ AWL, Inc.
+
+I spent my third year summer working as an AI Intern at AWL, Inc. (a Japanese startup that provides deep learning solution to retail stores) under the mentorship of *[Intisar Chowdhury (PhD)](https://sites.google.com/view/intisarchowdhury/home)*. I worked on two main projects, one of which was optimizing YOLO-X, an object detection model for age, gender and head direction prediction by integrating parallel branches into it for a low memory camera developed by Sony. The second project involved building end-to-end pipelines (including dataset curation, preprocessing, training, and evaluation) for vision-language models (VLMs) to address coupled vision tasks such as age and gender estimation and action recognition. I demonstrated a proof of concept showing how VLM pretraining, combined with carefully curated datasets, can be leveraged to tackle multiple tasks simultaneously. 
