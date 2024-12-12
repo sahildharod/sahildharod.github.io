@@ -18,10 +18,10 @@ main:
   # - title: "Blog Posts"
   #   url: /year-archive/
 
-  - title: "Publications & Preprints"
+  - title: "Publications"
     url: /publications/
 
-  - title: "Projects & Internships"
+  - title: "Projects"
     url: /markdown/
 
   - title: "CV"
