@@ -17,12 +17,12 @@ main:
         
   # - title: "Blog Posts"
   #   url: /year-archive/
-        
+
+  - title: "Publications & Preprints"
+    url: /publications/
+
   - title: "Projects & Internships"
     url: /markdown/
 
   - title: "CV"
     url: /files/CV_3pg.pdf
-
-  - title: "Publications & Preprints"
-    url: /publications/
